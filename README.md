@@ -1,4 +1,4 @@
-## REST API for Ecommerce Cart
+## REST API for Ecommerce Shopping Cart
 Customer can add and remove from cart, and also get their cart data.
 
 ### APIs
