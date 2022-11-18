@@ -37,3 +37,7 @@ GET
 ​/user​/cart-data​/{userId}
 getUserCartDateHandler
 ```
+
+#### ER Diagram:
+
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/91946820/202634792-1262e0a2-4220-48d3-8439-2d9d5ea39478.png)
