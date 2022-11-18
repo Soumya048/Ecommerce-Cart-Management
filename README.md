@@ -2,7 +2,7 @@
 Customer can add and remove from cart, and also get their cart data.
 
 ### APIs
-
+---
 
 
 #### Admin Controller
